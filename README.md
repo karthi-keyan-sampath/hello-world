@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+This is Karthikeyan-Sampath and I am working on Python.
+This is my first repository.
